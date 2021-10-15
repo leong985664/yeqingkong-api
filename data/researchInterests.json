@@ -1,0 +1,17 @@
+[
+  {
+    "uniqueKey": "interest1",
+    "name": "Risk communication",
+    "description": "I use an interdisciplinary approach to examine risk and crisis communication discourses as related to technological, environmental, and public health risks."
+  },
+  {
+    "uniqueKey": "interest2",
+    "name": "Intercultural communication",
+    "description": "I employ transnational and cross-cultural frameworks to explore various pressing issues in different institutional, socioeconomic, and cultural contexts."
+  },
+  {
+    "uniqueKey": "interest3",
+    "name": "Digital and visual rhetorics",
+    "description": "I analyze how digital media and emerging technologies facilitate scientific and risk communication in marginalized, vulnerable, and underrepresented communities."
+  }
+]

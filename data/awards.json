@@ -1,0 +1,38 @@
+[
+  {
+    "name": "HASTAC (Humanities, Arts, Science, and Technology Alliance and Collaboratory) Scholar",
+    "amount": "$600",
+    "time": "2019-2021",
+    "source": "hastac"
+  },
+  {
+    "name": "SIGDOC Microsoft Student Research Competition Travel Award",
+    "amount": "$500",
+    "time": "2019",
+    "source": "acm"
+  },
+  {
+    "name": "SIGDOC Microsoft Student Research Competition 2nd Place Winner (Graduate Category)",
+    "amount": "$300",
+    "time": "2019",
+    "source": "acm"
+  },
+  {
+    "name": "SIGDOC Microsoft Student Research Competition 3rd Place Winner (Graduate Category)",
+    "amount": "$250",
+    "time": "2018",
+    "source": "acm"
+  },
+  {
+    "name": "Provost’s Doctoral Fellowship",
+    "amount": "$20,000",
+    "time": "2017-2018",
+    "source": "ncsu"
+  },
+  {
+    "name": "University Graduate Fellowship",
+    "amount": "$4,000",
+    "time": "2017",
+    "source": "ncsu"
+  }
+]

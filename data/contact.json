@@ -1,0 +1,27 @@
+[
+  {
+    "type": "GoogleScholar",
+    "name": "Google Scholar",
+    "link": "https://scholar.google.com/citations?hl=en&pli=1&user=pkb4gf4AAAAJ"
+  },
+  {
+    "type": "Orcid",
+    "name": "ORCID",
+    "link": "https://orcid.org/0000-0001-7815-0701"
+  },
+  {
+    "type": "LinkedIn",
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/yeqingkong/"
+  },
+  {
+    "type": "Twitter",
+    "name": "Twitter",
+    "link": "https://twitter.com/YeqingKong"
+  },
+  {
+    "type": "Github",
+    "name": "Github",
+    "link": "https://github.com/kongyeqing"
+  }
+]

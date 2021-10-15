@@ -1,0 +1,26 @@
+[
+  {
+    "uniqueKey": "ncsu",
+    "school": "North Carolina State University",
+    "location": "Raleigh, NC, USA",
+    "degree": "Ph.D. in Communication, Rhetoric, and Digital Media",
+    "time": "2017-2021",
+    "hasAccomplished": false
+  },
+  {
+    "uniqueKey": "lu",
+    "school": "Lancaster University",
+    "location": "Lancaster, U.K.",
+    "degree": "M.A. in Language and Linguistics",
+    "time": "2014-2015",
+    "hasAccomplished": true
+  },
+  {
+    "uniqueKey": "hnu",
+    "school": "Hunan University",
+    "location": "Changsha, Hunan, China",
+    "degree": "B.A. in English",
+    "time": "2010-2014",
+    "hasAccomplished": true
+  }
+]

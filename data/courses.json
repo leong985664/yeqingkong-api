@@ -1,0 +1,46 @@
+[
+  {
+    "uniqueKey": "ENG332",
+    "course": "ENG 332 Communication for Business and Management",
+    "time": "Summer 2021",
+    "program": "Professional Writing Program",
+    "university": "NC State University",
+    "description": "This course is designed for students in business and management or in related fields. Students will discuss and practice communication tasks that they can expect to perform in the workplace. Sample assignments include memo, career portfolio, proposal, evaluation, informal and formal report.",
+    "role": "Instructor of Record",
+    "fileSyllabus": "ENG332Syllabus.pdf",
+    "fileAssignment": "ENG332Assignment.pdf"
+  },
+  {
+    "uniqueKey": "CE590",
+    "course": "CE 590 Professional Engineering Communication",
+    "time": "Summer 2020",
+    "program": "Engineering Online Program",
+    "university": "NC State University",
+    "description": "This course is designed for graduate students working in or seeking careers in industry. This course provides intensive instruction in effective engineering communication, clear writing style, writing effective reports and proposals, delivering strong presentations, and more.",
+    "role": "Teaching Assistant",
+    "fileSyllabus": "CE590Syllabus.pdf",
+    "fileAssignment": "CE590Assignment.pdf"
+  },
+  {
+    "uniqueKey": "ENG333",
+    "course": "ENG 333 Communication for Science and Research",
+    "time": "Fall 2019",
+    "program": "Professional Writing Program",
+    "university": "NC State University",
+    "description": "This course aims to develop students' writing and communication skills so that they will be able to successfully navigate careers in scientific and research environments. Sample assignments include professional email, literature review, research funding proposal, and conference proposal.",
+    "role": "Instructor of Record",
+    "fileSyllabus": "ENG333Syllabus.pdf",
+    "fileAssignment": "ENG333Assignment.pdf"
+  },
+  {
+    "uniqueKey": "IDS201",
+    "course": "IDS 201 Environmental Ethics",
+    "time": "Fall 2018 & Spring 2019",
+    "program": "Interdisciplinary Studies Program",
+    "university": "NC State University",
+    "description": "This course examines environmental issues from ecological, ethical, political, and economic perspectives. Special emphasis is placed on the global dimension of ecological issues and the attempt to understand the value systems of different cultures.",
+    "role": "Instructor of Record",
+    "fileSyllabus": "IDS201Syllabus.pdf",
+    "fileAssignment": "IDS201Assignment.pdf"
+  }
+]
